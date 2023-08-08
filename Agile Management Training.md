@@ -1,3 +1,4 @@
+[![DevOps Junkies](img/DevOpsJunkies_logo.png)](https://github.com/ProDataMan/DevOpsJunkies)
 ## Agile Project Management for Managers and Business Leaders
 Agile Leadership: Driving Business Value through Adaptive Project Management Practices
 
