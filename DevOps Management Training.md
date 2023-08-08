@@ -1,3 +1,4 @@
+[![DevOps Junkies](img/DevOpsJunkies_logo.png)](https://github.com/ProDataMan/DevOpsJunkies)
 ## DevOps for Managers and Business Leaders
 DevOps Leadership: Driving Business Transformation through Effective Technology Practices
 
