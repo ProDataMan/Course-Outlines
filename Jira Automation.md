@@ -1,3 +1,4 @@
+[![DevOps Junkies](img/DevOpsJunkies_logo.png)](https://github.com/ProDataMan/DevOpsJunkies)
 # Jira Automation
 
 **Course Information:**
