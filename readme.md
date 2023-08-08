@@ -1,4 +1,4 @@
-![DevOps Junkies](https://github.com/ProDataMan/DevOpsJunkies/main/img/DevOpsJunkies_logl.png)
+![DevOps Junkies](https://github.com/ProDataMan/DevOpsJunkies/main/img/DevOpsJunkies_logol.png)
 # Boot Camps
 
 - [Amazon Hunter](https://github.com/ProDataMan/Technical-Courses/blob/main/AmazonHunter.md)
