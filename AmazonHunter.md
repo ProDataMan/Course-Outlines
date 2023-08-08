@@ -1,3 +1,4 @@
+[![DevOps Junkies](img/DevOpsJunkies_logo.png)](https://github.com/ProDataMan/DevOpsJunkies)
 # Amazon Hunter Bootcamp
 
 ## 1.0 Amazon Hunter
