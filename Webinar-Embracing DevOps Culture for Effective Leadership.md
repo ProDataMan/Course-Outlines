@@ -1,3 +1,4 @@
+[![DevOps Junkies](img/DevOpsJunkies_logo.png)](https://github.com/ProDataMan/DevOpsJunkies)
 **Webinar Title: Embracing DevOps Culture for Effective Leadership**
 
 **Webinar Overview:**
