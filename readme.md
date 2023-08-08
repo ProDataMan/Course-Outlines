@@ -2,7 +2,7 @@
 # Boot Camps
 
 - [Amazon Hunter](https://github.com/ProDataMan/Technical-Courses/blob/main/AmazonHunter.md)
-  - [Introduction to Cyber Security and Cloud](https://github.com/ProDataMan/Technical-Courses/blob/main/Introduction%20to%20Cyber%20Security%20and%20Cloud.md)
+  - [Introduction to Cyber Security and Cloud](Introduction%20to%20Cyber%20Security%20and%20Cloud.md)
 - [Azure Defender](#)
 - [DevSecOps](#)
 - [Cyber Infiltrator](#)
