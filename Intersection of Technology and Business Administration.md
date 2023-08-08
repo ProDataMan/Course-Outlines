@@ -1,3 +1,4 @@
+[![DevOps Junkies](img/DevOpsJunkies_logo.png)](https://github.com/ProDataMan/DevOpsJunkies)
 # Intersection of Technology and Business Administration
 
 **Course Information:**
