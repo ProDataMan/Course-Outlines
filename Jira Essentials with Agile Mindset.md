@@ -1,3 +1,4 @@
+[![DevOps Junkies](img/DevOpsJunkies_logo.png)](https://github.com/ProDataMan/DevOpsJunkies)
 # Jira Essentials with Agile Mindset
 ## Course Description: Agile Project Management with Atlassian Jira
 
