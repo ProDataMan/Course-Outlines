@@ -56,4 +56,4 @@
 **Note:** The above cost estimates are based on the provided rates, hours, and activities. Any changes or adjustments will be communicated and agreed upon in advance.
 
 **Project Manager:** Antoine Victor
-**Date:** 08/20/2023
+**Date:** 08/15/2023
