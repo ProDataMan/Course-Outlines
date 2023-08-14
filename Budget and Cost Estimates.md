@@ -1,4 +1,4 @@
-**Updated Budget and Cost Estimates: AWS Hardening Project**
+**Budget and Cost Estimates: AWS Hardening Project**
 
 **Project Name:** AWS Hardening Project
 **Client:** ASPE/CPRIME
@@ -14,27 +14,27 @@
 
 **Phase 2a: Setup Account Policies in Accounts Org to be pushed to Lab Org**
 - Activities: Setup Account Policies using AWS Organizations and AWS Control Tower.
-- Estimated Hours: 25
+- Estimated Hours: 20
 - Rate per Hour: $385
-- Total Cost: $9,625.00
+- Total Cost: $7,700.00
 
 **Phase 2b: Setup Log Shipping from Account Org and Lab Org to Monitoring Org**
 - Activities: Configure log shipping for enhanced security monitoring.
-- Estimated Hours: 25
+- Estimated Hours: 20
 - Rate per Hour: $385
-- Total Cost: $9,625.00
+- Total Cost: $7,700.00
 
 **Phase 2c: Detailed Usage and Billing Log Shipping and Visualization**
 - Activities: Implement log shipping and visualization for Usage and Billing data.
-- Estimated Hours: 25
+- Estimated Hours: 20
 - Rate per Hour: $385
-- Total Cost: $9,625.00
+- Total Cost: $7,700.00
 
 **Phase 3a: Setup Provisioning Automation for Each AMI**
 - Activities: Develop provisioning automation for lab resources.
-- Estimated Hours: 60
+- Estimated Hours: 50
 - Rate per Hour: $385
-- Total Cost: $23,100.00
+- Total Cost: $19,250.00
 
 **Phase 3b: Setup Decommissioning Automation Based on Course End Date**
 - Activities: Implement automation for resource decommissioning.
@@ -51,7 +51,7 @@
 - Total Cost (Training): $3,000.00
 
 **Total Project Cost Estimate:**
-- Project Budget: 107,600.00
+- Project Budget: 97,975.00
 
 **Note:** The above cost estimates are based on the provided rates, hours, and activities. Any changes or adjustments will be communicated and agreed upon in advance.
 
