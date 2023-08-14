@@ -2,7 +2,7 @@
 
 **Project Name:** AWS Hardening Project
 **Client:** ASPE/CPRIME
-**Project Duration:** [Project Duration]
+**Project Duration:** 8 Weeks
 
 **Project Phases and Activities**
 
@@ -44,7 +44,7 @@
 
 **Phase 4: Ongoing Support and Training**
 - Activities: Provide ongoing support and training for one year.
-- Estimated Hours: 12 (support) + 2 (training)
+- 12 Months (support) + 2 Sessions (training)
 - Monthly Rate: $2300
 - Training per session: $1500
 - Total Cost (Support): $27,600.00
