@@ -43,9 +43,10 @@ Upon completion of the project, the following deliverables will be provided:
 - Ongoing support for one year, including regular communication and assistance for policy updates, security monitoring, and training.
 
 **Timeline:**
-The project is expected to be completed within [estimated timeline], considering the phased approach and specific tasks outlined.
+The project is expected to be completed within 8 weeks, considering the phased approach and specific tasks outlined.
 
 **Budget:**
-The estimated budget for this project is [project budget]. Any changes or additional costs will be communicated and agreed upon in advance.
+The estimated budget for this project is $107,600.00. 
+Any changes or additional costs will be communicated and agreed upon in advance.
 
 ---
