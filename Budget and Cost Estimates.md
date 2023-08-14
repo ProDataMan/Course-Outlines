@@ -4,7 +4,7 @@
 
 **Client:** ASPE/CPRIME
 
-**Project Duration:** 8 Weeks
+**Project Duration:** 8 Weeks (Phases 1-3) 12 months (Phase 4)
 
 **Project Phases and Activities**
 
