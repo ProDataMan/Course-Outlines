@@ -1,7 +1,9 @@
 **Budget and Cost Estimates: AWS Hardening Project**
 
 **Project Name:** AWS Hardening Project
+
 **Client:** ASPE/CPRIME
+
 **Project Duration:** 8 Weeks
 
 **Project Phases and Activities**
