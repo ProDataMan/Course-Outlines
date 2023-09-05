@@ -1,12 +1,10 @@
 ﻿# Agile Planning Fundamentals Workshop
 
-
 ## Instructor Profile
 - **Instructor:** Antoine Victor
 - **Background:** Certified Scrum Master, Certified Scrum Developer with over 10 years of experience in leading Agile projects. Has successfully trained numerous professionals in Agile methodologies.
 - **Contact:** Antoine.Victor@gmail.com
 - **Interesting Fact:** Traveled to 15 countries in the last 5 years.
-
 
 ## Course Agenda and Timing
 - **Section 1:** Iterative and Incremental Planning - 10 mins
