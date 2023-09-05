@@ -1,4 +1,7 @@
-<h4>Section 1: Iterative and Incremental Planning</h4>
+<h1>
+Agile Planning Fundamentals Student Manual
+</h1>
+  <h4>Section 1: Iterative and Incremental Planning</h4>
 
 <p>In this section, we will delve into the iterative and incremental planning approach within Agile methodologies. This approach emphasizes flexibility, adaptability, and the delivery of value through smaller, manageable increments. By the end of this section, you will understand the key concepts behind iterative and incremental planning and how they contribute to project success.</p>
 
