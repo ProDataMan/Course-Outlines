@@ -42,8 +42,10 @@ Key points of Iterative Planning:
 - Feedback-driven development
 - Flexibility to adapt to change
 
-
+```
+Iterative planning involves breaking down the project into smaller cycles called iterations. Each iteration produces a potentially shippable increment of the product, allowing for regular feedback and adjustment. This approach ensures that the project remains adaptable to changing requirements and stakeholder feedback.```
 ---
+
 
 
 ## Embracing Incremental Planning
@@ -54,7 +56,9 @@ Key points of Incremental Planning:
 - Frequent releases of working software
 - Client involvement in each increment
 
-
+```
+Incremental planning focuses on delivering value in increments or stages. Each increment adds new functionality to the product. This approach enables stakeholders to see progress early and provides opportunities for adjustments based on evolving needs.
+```
 ---
 
 
