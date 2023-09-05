@@ -1,8 +1,7 @@
-﻿## Section 1: Iterative and Incremental Planning
+# Section 1: Iterative and Incremental Planning
+
 # Iterative and Incremental Planning
-
-
-## Agile Planning Fundamentals Workshop
+Agile Planning Fundamentals Workshop
 
 
 ---
@@ -10,14 +9,13 @@
 
 # Introduction
 
-
 In this section, we will delve into the iterative and incremental planning approach within Agile methodologies. This approach emphasizes flexibility, adaptability, and the delivery of value through smaller, manageable increments. By the end of this section, you will understand the key concepts behind iterative and incremental planning and how they contribute to project success.
 
 
 ---
 
 
-# Agenda
+## Agenda
 
 
 - 1.1 Iterative and Incremental Planning Explained
@@ -36,7 +34,7 @@ In this section, we will delve into the iterative and incremental planning appro
 ---
 
 
-# Understanding Iterative Planning
+## Understanding Iterative Planning
 
 
 Key points of Iterative Planning:
@@ -48,7 +46,7 @@ Key points of Iterative Planning:
 ---
 
 
-# Embracing Incremental Planning
+## Embracing Incremental Planning
 
 
 Key points of Incremental Planning:
@@ -66,7 +64,7 @@ Key points of Incremental Planning:
 ---
 
 
-# Swift Responses
+## Swift Responses
 
 
 Key advantages of iterative and incremental planning:
@@ -78,7 +76,7 @@ Key advantages of iterative and incremental planning:
 ---
 
 
-# Working Increments
+## Working Increments
 
 
 Key advantages of iterative and incremental planning:
@@ -90,7 +88,7 @@ Key advantages of iterative and incremental planning:
 ---
 
 
-# Risk Reduction
+## Risk Reduction
 
 
 Key advantages of iterative and incremental planning:
@@ -108,7 +106,7 @@ Key advantages of iterative and incremental planning:
 ---
 
 
-# Establishing the Iteration Cycle
+## Establishing the Iteration Cycle
 
 
 Practical steps to implement iterative and incremental planning:
@@ -120,7 +118,7 @@ Practical steps to implement iterative and incremental planning:
 ---
 
 
-# Prioritizing Backlog Items
+## Prioritizing Backlog Items
 
 
 Practical steps to implement iterative and incremental planning:
@@ -131,7 +129,7 @@ Practical steps to implement iterative and incremental planning:
 ---
 
 
-# Continuous Feedback
+## Continuous Feedback
 
 
 Practical steps to implement iterative and incremental planning:
@@ -143,7 +141,7 @@ Practical steps to implement iterative and incremental planning:
 ---
 
 
-# Adapting Based on Feedback
+## Adapting Based on Feedback
 
 
 Practical steps to implement iterative and incremental planning:
@@ -161,7 +159,7 @@ Practical steps to implement iterative and incremental planning:
 ---
 
 
-# Exercise: Iterative and Incremental Planning
+## Exercise: Iterative and Incremental Planning
 
 
 Apply what you've learned by participating in an interactive exercise. Work through a scenario that involves planning an Agile project using the iterative and incremental approach.
