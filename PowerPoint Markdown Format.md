@@ -7,6 +7,8 @@ Text on a slide:
 - Bullet
 - Bullet
 
+[Goggles Home Page](https://www.Google.com)
+
 ::: notes
 Speaker notes go here
 :::
@@ -17,6 +19,8 @@ More Text on a slide:
 - Bullet
 - Bullet
 - Bullet
+
+![ChatGPT Logo](https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg)
 
 ::: notes
 More Speaker notes go here
