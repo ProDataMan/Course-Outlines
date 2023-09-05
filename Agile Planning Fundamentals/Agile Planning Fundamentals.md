@@ -44,39 +44,39 @@
 
 <p>By the end of this section, you will have a solid grasp of the benefits, implementation strategies, and real-world applications of iterative and incremental planning within Agile project management. This knowledge will equip you with valuable insights to drive successful project outcomes through adaptability and the delivery of incremental value.</p>
 
-<h4>Section 4: Creating a Release Plan</h4>
+<h4>Section 2: Creating a Release Plan</h4>
 
 <p>In this section, we will explore the process of creating a release plan within Agile project management. A release plan outlines the scope, timeline, and key milestones of a project. By the end of this section, you will understand the steps involved in creating an effective release plan that aligns with Agile principles.</p>
 
-<h4>4.1 Understanding Release Planning</h4>
+<h4>2.1 Understanding Release Planning</h4>
 
-<h4>4.1.1 Defining the Scope</h4>
+<h4>2.1.1 Defining the Scope</h4>
 
 <p>Begin by identifying the scope of the project. Understand the goals, objectives, and features that need to be delivered.</p>
 
-<h4>4.1.2 Identifying User Stories</h4>
+<h4>2.1.2 Identifying User Stories</h4>
 
 <p>Break down the project scope into user stories. User stories capture specific functionality from the user's perspective.</p>
 
-<h4>4.2 The Release Planning Process</h4>
+<h4>2.2 The Release Planning Process</h4>
 
-<h4>4.2.1 Prioritizing User Stories</h4>
+<h4>2.2.1 Prioritizing User Stories</h4>
 
 <p>Work with stakeholders to prioritize user stories based on their value and complexity. High-priority stories should be included in the initial release.</p>
 
-<h4>4.2.2 Estimating Effort</h4>
+<h4>2.2.2 Estimating Effort</h4>
 
 <p>Estimate the effort required for each user story. This estimation helps in planning the allocation of resources and determining the release timeline.</p>
 
-<h4>4.2.3 Creating the Release Roadmap</h4>
+<h4>2.2.3 Creating the Release Roadmap</h4>
 
 <p>Develop a visual roadmap that outlines the sequence of releases and their corresponding features. The roadmap helps in communicating the project timeline to stakeholders.</p>
 
-<h4>4.3 Iterative Refinement</h4>
+<h4>2.3 Iterative Refinement</h4>
 
 <p>Release planning is an iterative process. As new information becomes available, refine the release plan accordingly. Collaborate with stakeholders to ensure that the plan remains aligned with project goals.</p>
 
-<h4>4.4 Release Plan Review and Approval</h4>
+<h4>2.4 Release Plan Review and Approval</h4>
 
 <p>Present the release plan to stakeholders for review and approval. This step ensures that everyone is on the same page regarding the scope, timeline, and expectations of the project.</p>
 
@@ -86,82 +86,82 @@
 
 <p>By the end of this section, you will have gained a clear understanding of the release planning process within Agile project management. You will be equipped with the skills to create well-defined release plans that drive successful project execution and ensure alignment with stakeholder expectations.</p>
 
-<h4>Section 5: Capacity Planning and Velocity</h4>
+<h4>Section 3: Capacity Planning and Velocity</h4>
 
 <p>In this section, we will delve into the concepts of capacity planning and velocity in Agile project management. Capacity planning involves determining the team's available resources and the amount of work they can handle in a given time frame. Velocity measures the team's historical productivity and guides the planning process for future iterations.</p>
 
-<h4>5.1 Understanding Capacity Planning</h4>
+<h4>3.1 Understanding Capacity Planning</h4>
 
 <p>Capacity planning is the process of assessing the team's capabilities and availability for upcoming work. By analyzing the team's capacity, you can avoid overloading the team and ensure a realistic workload.</p>
 
-<h4>5.2 Calculating Velocity</h4>
+<h4>3.2 Calculating Velocity</h4>
 
-<h4>5.2.1 What is Velocity?</h4>
+<h4>3.2.1 What is Velocity?</h4>
 
 <p>Velocity is a metric that measures the amount of work a team can complete within a single iteration. It helps in predicting how much work the team can accomplish in future iterations.</p>
 
-<h4>5.2.2 Calculating Velocity</h4>
+<h4>3.2.2 Calculating Velocity</h4>
 
 <p>Velocity is calculated by summing up the story points of completed user stories in an iteration. It provides insights into the team's efficiency and helps in setting realistic expectations for the upcoming iterations.</p>
 
-<h4>5.3 Using Velocity for Planning</h4>
+<h4>3.3 Using Velocity for Planning</h4>
 
-<h4>5.3.1 Estimating Work</h4>
+<h4>3.3.1 Estimating Work</h4>
 
 <p>Velocity is used to estimate the amount of work that can be planned for the next iteration. It serves as a guide for selecting user stories and determining the scope of the iteration.</p>
 
-<h4>5.3.2 Adjusting Iteration Length</h4>
+<h4>3.3.2 Adjusting Iteration Length</h4>
 
 <p>If the team's velocity fluctuates, it may be necessary to adjust the iteration length to maintain a consistent level of output. Shorter iterations may provide more frequent feedback and allow for quicker adjustments.</p>
 
 <h4>Exercise: Calculating Velocity</h4>
 
 <p>Engage in a hands-on exercise to calculate the velocity of a fictional Agile team based on completed user stories. Apply the velocity metric to plan the scope of the next iteration, ensuring a balanced workload for the team.</p>
-<h4>Section 6: Agile Estimation Techniques</h4>
+<h4>Section 4: Agile Estimation Techniques</h4>
 
 <p>In this section, we will explore various Agile estimation techniques that help teams estimate the effort required for user stories and tasks. Agile estimation is crucial for effective planning and prioritization of work.</p>
 
-<h4>6.1 Importance of Agile Estimation</h4>
+<h4>4.1 Importance of Agile Estimation</h4>
 
 <p>Agile estimation enables teams to make informed decisions about which user stories to work on and in what order. By estimating the effort required for each item, teams can prioritize and allocate resources effectively.</p>
 
-<h4>6.2 Relative Estimation</h4>
+<h4>4.2 Relative Estimation</h4>
 
-<h4>6.2.1 What is Relative Estimation?</h4>
+<h4>4.2.1 What is Relative Estimation?</h4>
 
 <p>Relative estimation involves comparing the effort required for different user stories or tasks without assigning specific time values. Teams use relative units such as story points or t-shirt sizes (small, medium, large) to express the relative complexity.</p>
 
-<h4>6.2.2 Benefits of Relative Estimation</h4>
+<h4>4.2.2 Benefits of Relative Estimation</h4>
 
 <p>Relative estimation focuses on the relative complexity, not precise time frames. It helps teams prioritize and plan based on the order of magnitude, promoting flexibility and adaptability.</p>
 
-<h4>6.3 Planning Poker</h4>
+<h4>4.3 Planning Poker</h4>
 
-<h4>6.3.1 How Does Planning Poker Work?</h4>
+<h4>4.3.1 How Does Planning Poker Work?</h4>
 
 <p>Planning Poker is a collaborative estimation technique where team members discuss and estimate the effort required for each user story. Each team member uses a deck of cards with values representing complexity.</p>
 
-<h4>6.3.2 Advantages of Planning Poker</h4>
+<h4>4.3.2 Advantages of Planning Poker</h4>
 
 <p>Planning Poker encourages team engagement and consensus building. It leverages the collective knowledge of the team to arrive at more accurate estimates.</p>
 
-<h4>6.4 Wideband Delphi</h4>
+<h4>4.4 Wideband Delphi</h4>
 
-<h4>6.4.1 Overview of Wideband Delphi</h4>
+<h4>4.4.1 Overview of Wideband Delphi</h4>
 
 <p>Wideband Delphi is an estimation technique that involves multiple rounds of estimation and discussion. The goal is to converge towards a consensus estimate over several iterations.</p>
 
-<h4>6.4.2 Benefits of Wideband Delphi</h4>
+<h4>4.4.2 Benefits of Wideband Delphi</h4>
 
 <p>Wideband Delphi reduces biases and extremes in estimation by allowing team members to reconsider and adjust their estimates based on group feedback.</p>
 
-<h4>6.5 Affinity Estimation</h4>
+<h4>4.5 Affinity Estimation</h4>
 
-<h4>6.5.1 Affinity Estimation Process</h4>
+<h4>4.5.1 Affinity Estimation Process</h4>
 
 <p>Affinity Estimation involves grouping user stories of similar complexity together. Team members then discuss and assign a relative size or value to each group, making estimation more manageable.</p>
 
-<h4>6.5.2 Advantages of Affinity Estimation</h4>
+<h4>4.5.2 Advantages of Affinity Estimation</h4>
 
 <p>Affinity Estimation simplifies the estimation process by categorizing items into groups, reducing the need for precise individual estimates.</p>
 
