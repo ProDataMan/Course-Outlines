@@ -29,14 +29,13 @@ More Speaker notes go here
 # Beginnig of a new Section
 
 ## First Slide in a new Section
-More Text on a slide:
+Below is a code block:
 
-- Bullet
-- Bullet
-- Bullet
-
+```
+pandoc "C:\GitRepos\DevOpsJunkies\PowerPoint Markdown Format.md" -t pptx --reference-doc="C:\ProDataMan\Sample PowerPoint with Notes.pptx" --output "C:\GitRepos\DevOpsJunkies\Sample PowerPoint with Notes.pptx"
+```
 ::: notes
-And More Speaker notes go here
+The code block here is the pandoc command used to convert from markdown to PowerPoint
 :::
 
 ## Second Slide in new Section
