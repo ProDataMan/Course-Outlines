@@ -1,6 +1,8 @@
 # Section 1: Iterative and Incremental Planning
 
 # Iterative and Incremental Planning
+
+## Iterative and Incremental Planning
 Agile Planning Fundamentals Workshop
 
 
@@ -9,8 +11,8 @@ Agile Planning Fundamentals Workshop
 
 # Introduction
 
-In this section, we will delve into the iterative and incremental planning approach within Agile methodologies. This approach emphasizes flexibility, adaptability, and the delivery of value through smaller, manageable increments. By the end of this section, you will understand the key concepts behind iterative and incremental planning and how they contribute to project success.
-
+:::In this section, we will delve into the iterative and incremental planning approach within Agile methodologies. This approach emphasizes flexibility, adaptability, and the delivery of value through smaller, manageable increments. By the end of this section, you will understand the key concepts behind iterative and incremental planning and how they contribute to project success.
+:::
 
 ---
 
@@ -42,9 +44,10 @@ Key points of Iterative Planning:
 - Feedback-driven development
 - Flexibility to adapt to change
 
+
 ```
 Iterative planning involves breaking down the project into smaller cycles called iterations. Each iteration produces a potentially shippable increment of the product, allowing for regular feedback and adjustment. This approach ensures that the project remains adaptable to changing requirements and stakeholder feedback.```
----
+```
 
 
 
