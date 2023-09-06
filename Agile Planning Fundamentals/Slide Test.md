@@ -7,6 +7,10 @@ Text on a slide:
 - Bullet
 - Bullet
 
+::: notes
+Speaker notes go here
+:::
+
 # Agile Project Management Course
 
 # Fuck you
