@@ -2,7 +2,7 @@
 We've got content
 
 # Available Webinars, Courseware and Workshops
----
+
 ## Webinars
 - [Embracing DevOps Culture for Effective Leadership](Webinar-Embracing%20DevOps%20Culture%20for%20Effective%20Leadership.md)
 - [Understanding the core principles of DevOps]()
