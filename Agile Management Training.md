@@ -70,4 +70,3 @@ Upon completion of this course, participants will:
 - Gain knowledge of scaling Agile practices for larger projects and organizations.
 - Acquire insights from real-world case studies and industry best practices to inform their own Agile implementations.
 
-Suggested alternate course name: "Agile Leadership: Driving Business Value through Adaptive Project Management Practices"
