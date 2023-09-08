@@ -1,5 +1,5 @@
 [![DevOps Junkies](img/DevOpsJunkies_logo.png)](https://github.com/ProDataMan/DevOpsJunkies)
-### We've got content
+We've got content
 
 # Available Webinars, Courseware and Workshops
 ---
