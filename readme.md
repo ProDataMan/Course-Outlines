@@ -45,4 +45,5 @@ We've got content
 
 ## Infrastructure
 - [Intro to Ansible](Intro%20to%20Ansible.md)
+- [Advanced Ansible](Intro%20to%20Ansible.md)
 - [Linux Fundamentals - for Sys Admins](#)
