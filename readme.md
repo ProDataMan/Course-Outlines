@@ -40,9 +40,6 @@ We've got content
 - [Test Driven Development](Test%20Driven%20Development.md)
 - [Continuous Integration and Continuous Deplivery](#)
 
-## Security
-- [OWASP Top 10](000272%20-%20Security%20Strategic%20Planning%20-%20Policy%20-%20and%20Leadership.md)
-
 ## Infrastructure
 - [Intro to Ansible](Intro%20to%20Ansible.md)
 - [Advanced Ansible](Intro%20to%20Ansible.md)
