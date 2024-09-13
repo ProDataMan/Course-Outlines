@@ -23,7 +23,8 @@ We've got content
 - [Agile Management Training](Agile%20Management%20Training.md)
 - [DevOps Management Training](DevOps%20Management%20Training.md)
 
-## ChatGPT and Prompt Engineering
+## Artificial Intelligence, Machine Learning, ChatGPT and Prompt Engineering
+- [AI for Everyone](https://github.com/ProDataMan/Course-Outlines/blob/main/AI_for_Everyone.md)
 - [Streamlining Content Development with ChatGPT](Streamlining%20Content%20Development%20Workflow%20with%20ChatGPT.md)
 - [Prompt Engineering with Chat GPT](Chat%20GPT%20prompt%20engineering.md)
 
