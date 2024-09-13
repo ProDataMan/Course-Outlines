@@ -43,6 +43,7 @@ We've got content
 - [Continuous Integration and Continuous Deplivery](#)
 
 ## Infrastructure
+- [Event Streaming with Azure Event Hub](https://github.com/ProDataMan/Course-Outlines/blob/main/EventStreamingDataWithAzureEventHub.md)
 - [Intro to Ansible](Intro%20to%20Ansible.md)
 - [Advanced Ansible](Intro%20to%20Ansible.md)
 - [Linux Fundamentals - for Sys Admins](#)
